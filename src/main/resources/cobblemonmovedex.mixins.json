@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "zzhangaao1z.cobblemonmovedex.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "common.LearnsetMixin"
+  ],
+  "client": [
+    "client.CobbledexMovesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

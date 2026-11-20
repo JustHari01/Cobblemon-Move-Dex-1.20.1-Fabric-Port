@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "cobblemonmovedex",
+  "version": "${version}",
+  "name": "Cobblemon Move Dex (UNOFFICIAL)",
+  "description": "Adds learnable Pokémon move listings to the Cobbledex Pokédex on Minecraft 1.20.1.",
+  "authors": [
+    "ZzhangaAo1z (original)",
+    "JustHari01 (port)"
+  ],
+  "contact": {
+    "repo": "https://github.com/JustHari01/Cobblemon-Move-Dex-1.20.1-Fabric-Port"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/cobblemonmovedex/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+    ],
+    "main": [
+      "zzhangaao1z.cobblemonmovedex.CobblemonMoveDex"
+    ]
+  },
+  "mixins": [
+    "cobblemonmovedex.mixins.json"
+  ],
+  "accessWidener": "cobblemonmovedex.accesswidener",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "cobblemon": "1.5.2",
+    "cobbledex": "1.1.0"
+  }
+}

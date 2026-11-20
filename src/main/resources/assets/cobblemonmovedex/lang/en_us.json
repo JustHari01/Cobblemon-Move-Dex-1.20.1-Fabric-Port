@@ -1,0 +1,22 @@
+{
+  "cobblemonmovedex.ui.pokedex.info.moves_level": "Learnable moves: LevelUp",
+  "cobblemonmovedex.ui.pokedex.info.moves_tm": "Learnable moves: TM",
+  "cobblemonmovedex.ui.pokedex.info.moves_tutor": "Learnable moves: Tutor",
+  "cobblemonmovedex.ui.pokedex.info.moves_egg": "Learnable moves: Egg",
+  "cobblemonmovedex.ui.moves.open": "Moves",
+  "cobblemonmovedex.ui.moves.title": "Learnable Moves — %s",
+  "cobblemonmovedex.ui.moves.level": "Level",
+  "cobblemonmovedex.ui.moves.tm": "TM",
+  "cobblemonmovedex.ui.moves.tutor": "Tutor",
+  "cobblemonmovedex.ui.moves.egg": "Egg",
+  "cobblemonmovedex.ui.moves.evolution": "Evo",
+  "cobblemonmovedex.ui.moves.empty": "No moves in this category.",
+  "cobblemonmovedex.ui.moves.scroll": "Scroll to browse",
+  "cobblemonmovedex.ui.moves.column.level": "Level",
+  "cobblemonmovedex.ui.moves.column.type": "Type",
+  "cobblemonmovedex.ui.moves.column.move": "Move",
+  "cobblemonmovedex.ui.moves.column.category": "Class",
+  "cobblemonmovedex.ui.moves.column.power": "Pow",
+  "cobblemonmovedex.ui.moves.column.accuracy": "Acc",
+  "cobblemonmovedex.ui.moves.column.pp": "PP"
+}

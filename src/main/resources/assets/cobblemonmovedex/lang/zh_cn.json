@@ -1,0 +1,22 @@
+{
+  "cobblemonmovedex.ui.pokedex.info.moves_level": "可学习招式: 升级",
+  "cobblemonmovedex.ui.pokedex.info.moves_tm": "可学习招式: 学习器",
+  "cobblemonmovedex.ui.pokedex.info.moves_tutor": "可学习招式: 传授",
+  "cobblemonmovedex.ui.pokedex.info.moves_egg": "可学习招式: 遗传",
+  "cobblemonmovedex.ui.moves.open": "招式",
+  "cobblemonmovedex.ui.moves.title": "可学习招式 — %s",
+  "cobblemonmovedex.ui.moves.level": "升级",
+  "cobblemonmovedex.ui.moves.tm": "学习器",
+  "cobblemonmovedex.ui.moves.tutor": "教学",
+  "cobblemonmovedex.ui.moves.egg": "遗传",
+  "cobblemonmovedex.ui.moves.evolution": "进化",
+  "cobblemonmovedex.ui.moves.empty": "此分类没有招式。",
+  "cobblemonmovedex.ui.moves.scroll": "滚动查看",
+  "cobblemonmovedex.ui.moves.column.level": "等级",
+  "cobblemonmovedex.ui.moves.column.type": "属性",
+  "cobblemonmovedex.ui.moves.column.move": "招式",
+  "cobblemonmovedex.ui.moves.column.category": "类别",
+  "cobblemonmovedex.ui.moves.column.power": "威力",
+  "cobblemonmovedex.ui.moves.column.accuracy": "命中",
+  "cobblemonmovedex.ui.moves.column.pp": "PP"
+}
