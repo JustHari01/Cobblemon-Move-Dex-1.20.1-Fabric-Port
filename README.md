@@ -24,4 +24,4 @@ The original mod and its source are by ZzhangaAo1z. The original project is lice
 - Original source: https://github.com/ZzhangaAo1z/CobblemonMoveDex
 - Port source: https://github.com/JustHari01/Cobblemon-Move-Dex-1.20.1-Fabric-Port
 
-This unofficial 1.20.1 Fabric backport, its original project icon, and its release description were prepared with AI assistance.
+This unofficial 1.20.1 Fabric backport, its custom AI-generated port icon, and its release description were prepared with AI assistance.
