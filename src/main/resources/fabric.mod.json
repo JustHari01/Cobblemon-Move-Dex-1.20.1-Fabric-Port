@@ -12,7 +12,7 @@
     "repo": "https://github.com/JustHari01/Cobblemon-Move-Dex-1.20.1-Fabric-Port"
   },
   "license": "MPL-2.0",
-  "icon": "assets/cobblemonmovedex/icon.png",
+  "icon": "assets/cobblemonmovedex/icon-port.png",
   "environment": "*",
   "entrypoints": {
     "client": [
